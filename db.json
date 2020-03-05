@@ -1,7 +1,6 @@
 {
   "posts": [
-    { "userId": "Neil Armstrong", "id": "United States", "title": "NASA", "body": "RETIRED"
-    }
+    { "userId": "Neil Armstrong", "id": "United States", "title": "NASA", "body": "RETIRED"}
   ]
 }
 
